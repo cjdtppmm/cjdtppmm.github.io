@@ -1,10 +1,15 @@
 ---
 layout: page
-title: About
+title: 关于
 ---
 
-Hello.
+大家好！
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+本人爱好阅读思考写作。
 
-**Less is more..**
+以下是我的联系方式：
+
+豆瓣：https://www.douban.com/people/3502244/
+
+微信公众号：chenjia-2016
+
